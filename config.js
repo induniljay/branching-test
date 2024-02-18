@@ -1,5 +1,5 @@
 console.log(`I' m config.js page`);
-console.log("version 3");
+console.log("social login 2");
 
 // commit in  git consider as version , or history
 
