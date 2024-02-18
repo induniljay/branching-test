@@ -119,5 +119,10 @@ git push origin main --set-upstream
 
  @change_branch
  git checkout <branch_name>
+
+ @merge
+ merged results added to current working on branch therefore we ensure to back to the main branch (ofenly merge happen here)
+ 
+ git merge <branch name> -m "branched mergeed"
  
   */
