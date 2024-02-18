@@ -1,5 +1,5 @@
 console.log(`I' m config.js page`);
-console.log("version 3");
+console.log("social login 2");
 
 // commit in  git consider as version , or history
 
@@ -92,6 +92,7 @@ git push origin main --set-upstream
 
  @clone  (download github project to desktop)
  git clone
+ git clone https://github.com/induniljay/test-pro.git <new-foldername>
  git clone https://github.com/induniljay/test-pro.git <copy-of-test>
 
 
@@ -110,3 +111,13 @@ git push origin main --set-upstream
 @sync
  git pull origin main
  */
+
+/**Branching
+
+ @create_branch
+ git branch socialLogin
+
+ @change_branch
+ git checkout <branch_name>
+ 
+  */
