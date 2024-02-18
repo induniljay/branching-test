@@ -1,1 +1,2 @@
-console.log("Home version 1");
+console.log("Home");
+console.log("version 2");
